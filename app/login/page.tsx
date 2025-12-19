@@ -47,13 +47,13 @@ export default function LoginPage() {
                 </div>
               </div>
               <button
-                className=" mt-6 p-1 w-full rounded-xl bg-blue-600 hover:bg-blue-300 "
+                className=" mt-6 p-1 w-full text-white rounded-xl bg-blue-600 hover:bg-blue-300 "
                 type="submit"
               >
                 login
               </button>
               <button
-                className=" mt-2 p-1 w-full rounded-xl bg-black hover:bg-gray-300 hover:text-black"
+                className=" mt-2 p-1 w-full text-white rounded-xl bg-black hover:bg-gray-300 hover:text-black"
                 type="button"
                 onClick={() => router.push("/signup")}
               >
