@@ -8,7 +8,7 @@ export default function Layout( {children}: {
 }) {
   return (
     <div>
-      <div>
+      <div className="sticky top-0 z-50">
         <Navbar />
       </div>
       <Suspense fallback={<Loading/>}></Suspense>

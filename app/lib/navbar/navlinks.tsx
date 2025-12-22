@@ -5,7 +5,7 @@ import { redirect, usePathname } from "next/navigation";
 const links = [
     { name: "Home", href: "/dashboard/home"},
     { name: "Games", href: "/dashboard/games"},
-    { name: "Account", href: "/dashboard/member"},
+    { name: "Account", href: "/dashboard/account"},
     { name: "Logout", href: "/login"},
 ]
 

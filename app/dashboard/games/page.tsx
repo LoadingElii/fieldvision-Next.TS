@@ -12,9 +12,8 @@ export default async function GamesPage() {
     <div className="p-2 h-min-full">
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 justify-items-center">
         {games?.map((game) => (
-          <div className=" pb-2 pt-2">
+          <div key={game.game_id.valueOf()} className=" pb-2 pt-2">
             <Gamecard
-              key={game.game_id.valueOf()}
               game={game}
               prediction={FindPrediction(game.game_id, predictions)}
             />
