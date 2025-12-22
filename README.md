@@ -114,6 +114,14 @@ In Progress:
 - Error handling and loading states
 
 ---
+## Running the Application Locally
+
+```bash
+git clone https://github.com/your-username/fieldVision.git
+cd fieldVision
+npm install
+npm run dev```
+---
 ## Project Goals
 
 This project was built to demonstrate:
@@ -142,10 +150,3 @@ LinkedIn:
 GitHub: 
 ---
 
-## Running the Application Locally
-
-```bash
-git clone https://github.com/your-username/fieldVision.git
-cd fieldVision
-npm install
-npm run dev
