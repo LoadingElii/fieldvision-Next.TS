@@ -11,8 +11,10 @@
   "dependencies": {
     "@heroui/card": "^2.2.26",
     "@heroui/divider": "^2.2.21",
+    "@heroui/spinner": "^2.2.26",
     "@heroui/system": "^2.4.24",
     "@heroui/theme": "^2.4.24",
+    "clsx": "^2.1.1",
     "framer-motion": "^12.23.26",
     "next": "16.0.6",
     "react": "19.2.0",

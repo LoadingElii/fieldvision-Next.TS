@@ -6,7 +6,6 @@ export async function getGames() {
 
     if(res.ok) {
         let data = await res.json();
-        console.log(JSON.stringify(data))
         let games: Game[] = data;
         return games;
     }
