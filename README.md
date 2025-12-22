@@ -147,9 +147,11 @@ This project was built to demonstrate:
 
 **LoadingElii**  
 Software Engineer  
-Full-Stack Development  
 
-LinkedIn:
+LinkedIn: https://www.linkedin.com/in/delijhia-brown-075591330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
 GitHub: 
+https://github.com/LoadingElii
+
 ---
 
