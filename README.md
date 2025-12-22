@@ -21,7 +21,8 @@ The application allows users to authenticate, view weekly NFL matchups, and see 
 ### Login Page
 _User authentication entry point_
 
-![Login Page](public/screenshots/login.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c75522c7-7377-4b89-8d18-e539216853ed" />
+
 
 This page provides the login experience for returning users and acts as the entry point into the authenticated dashboard.
 
@@ -30,7 +31,8 @@ This page provides the login experience for returning users and acts as the entr
 ### Games Dashboard
 _Weekly NFL games with win probability predictions_
 
-![Games Dashboard](public/screenshots/games.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3f49731e-a922-4a5a-8e84-4b8d9b6a9b9c" />
+
 
 The games dashboard displays:
 - All matchups for the current NFL week
