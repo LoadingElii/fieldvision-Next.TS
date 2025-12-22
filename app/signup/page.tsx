@@ -64,7 +64,7 @@ export default function SignUpPage() {
             </div>
           </div>
           <button
-            className=" mt-3 p-1 w-full text-white rounded-xl bg-blue-600 hover:bg-blue-300 "
+            className=" mt-3 p-1 w-full text-white rounded-xl bg-blue-600 hover:text-black hover:bg-blue-300 "
             type="submit"
           >
             Create account
