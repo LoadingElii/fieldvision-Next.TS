@@ -122,7 +122,8 @@ In Progress:
 git clone https://github.com/your-username/fieldVision.git
 cd fieldVision
 npm install
-npm run dev```
+npm run dev
+```
 ---
 ## Project Goals
 
