@@ -122,6 +122,8 @@ git clone https://github.com/your-username/fieldVision.git
 cd fieldVision
 npm install
 npm run dev
+'''
+
 
 ## Project Goals
 
